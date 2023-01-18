@@ -1,0 +1,29 @@
+_repo: Yhteiskunnan-hylkaama-Langenneen-naisen-paivakirja_69663
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Latvala, Salu
+    gutenberg_agent_id: '55365'
+    url: http://www.gutenberg.org/2009/agents/55365
+creator:
+  author:
+    agent_name: Böhme, Margrete
+    gutenberg_agent_id: '55364'
+    url: http://www.gutenberg.org/2009/agents/55364
+description: ''
+gutenberg_issued: '2022-12-30'
+identifiers:
+  gutenberg: '69663'
+language: fi
+pgterms:marc905: 20221125064643bhme
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: 'Finland: Oy Kuopion Uusi Kirjapaino,1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yhteiskunnan hylkäämä: Langenneen naisen päiväkirja'
+url: http://www.gutenberg.org/ebooks/69663
