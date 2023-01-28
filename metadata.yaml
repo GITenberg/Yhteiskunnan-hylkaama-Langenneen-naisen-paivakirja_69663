@@ -5,12 +5,17 @@ contributor:
     agent_name: Latvala, Salu
     gutenberg_agent_id: '55365'
     url: http://www.gutenberg.org/2009/agents/55365
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Böhme, Margrete
     gutenberg_agent_id: '55364'
     url: http://www.gutenberg.org/2009/agents/55364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69663#Yhteiskunnan-hylkaama-Langenneen-naisen-paivakirja
 gutenberg_issued: '2022-12-30'
 identifiers:
   gutenberg: '69663'
